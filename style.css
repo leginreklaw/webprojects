@@ -1,7 +1,24 @@
-<<<<<<< HEAD
-p {
-  color: red;
+body  {
+  border: 20px;
+  border-style: solid;
+  border-color: gray;
+  max-width: 700px;
+  padding: 20px;
+  width: 80%;
+  margin: 20px auto;
 }
-=======
-short changes
->>>>>>> bc16691540af91ea36d6bf7d3de3e8f564fa6466
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+  }
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 800;
+}
+h2  {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 800;
+  font-variant: small-caps;
+  color: blue;
+}
